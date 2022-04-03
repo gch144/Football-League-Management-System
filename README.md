@@ -6,8 +6,8 @@ This program is a Football League Database ManagementSystem which can store,dele
 
 
 Program provides
-• Add and remove a league.
-• Check if a league exists.
+1. Add and remove a league.
+2.Check if a league exists.
 • Add a player to a league.
 • Remove a player from a league.
 • Modify a player in a league.
